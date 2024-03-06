@@ -2,3 +2,4 @@ img/
 log/
 font/
 pyqts
+*__pycache__/
